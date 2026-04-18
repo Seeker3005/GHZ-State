@@ -1,5 +1,5 @@
 # GHZ-State
-This was a practice lab for IBM's Qiskit Global Summer School for designing a GHZ state and running on a quantum device. Credit for setting up this notebook belongs to IBM and this program.
+This was my work in a practice lab for IBM's Qiskit Global Summer School 2025 for designing a GHZ state and running it on a quantum device. Credit for setting up this notebook belongs to IBM and this program.
 
 What I learned:
 How to set up a Greeberger-Home_Zeilinger (GHZ) state circuit and transpile it using a coupling map I designed based on the tutorial instructions. 
